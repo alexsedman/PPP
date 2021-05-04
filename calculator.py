@@ -12,7 +12,7 @@ while counter != month:
     counter += 1
     if counter == 1:
         portfolio += 1100
-        invested += 1000
+        invested += 1100
     else:
         portfolio += 100
         invested += 100
